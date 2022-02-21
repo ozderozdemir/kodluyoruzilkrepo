@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Bu repo Kodluyoruz Java-Backend eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![giriş repo fotoğrafı](http:https://r.resimlink.com/RmcY.png)
+[giriş repo fotoğrafı](http:https://r.resimlink.com/RmcY.png)
 
 ## Installation
 ---
